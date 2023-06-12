@@ -18,8 +18,11 @@ the object name assign the value NULL
 names(x)<- c("a","b","c")
 x
 ```
+
 Vectors are ATOMIC or LIST
-<img src="../../figures/dc-code_syntax.svg" width="80%" />
+<img src="figures/vector.png" width="80%" />
+<img src="../../figures/vector.png" style="display: block; margin: auto;" />
+![](../figures/vector.png)
 
 ```{r names}
 list("a", 1L, 1.5, TRUE)
